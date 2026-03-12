@@ -1,1 +1,11 @@
+## Task-02: Generative AI (Image Generation)
+In this task, I utilized the **Stable Diffusion v1.5** model via the Hugging Face `diffusers` library to generate high-quality images from text prompts.
 
+### 🚀 Implementation
+- **Model:** Stable Diffusion v1.5
+- **Environment:** Google Colab (T4 GPU)
+- **Library:** PyTorch, Diffusers, Accelerate
+
+### 🖼️ Results
+![Generated Image](generated_image.png)
+*Prompt: "A high-tech robotic hand holding a glowing fiber optic cable..."*
